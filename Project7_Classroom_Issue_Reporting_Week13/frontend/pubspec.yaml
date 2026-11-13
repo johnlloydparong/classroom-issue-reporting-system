@@ -1,0 +1,12 @@
+name: classroom_issue_reporting
+publish_to: none
+description: Week 13 Classroom Issue Reporting Flutter Web
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+flutter:
+  uses-material-design: true

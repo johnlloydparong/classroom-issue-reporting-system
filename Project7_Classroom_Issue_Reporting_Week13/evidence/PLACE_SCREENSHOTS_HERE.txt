@@ -1,0 +1,2 @@
+Use names and capture guidance in docs/EVIDENCE_INDEX.md.
+Do not submit this text file as evidence; submit real screenshots after running tests locally.

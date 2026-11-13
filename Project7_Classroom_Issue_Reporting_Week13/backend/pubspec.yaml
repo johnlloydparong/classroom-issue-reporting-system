@@ -1,0 +1,8 @@
+name: classroom_issue_backend
+description: Week 13 Classroom Issue Reporting System API
+version: 1.0.0
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  shelf: ^1.4.2
+  shelf_router: ^1.1.4

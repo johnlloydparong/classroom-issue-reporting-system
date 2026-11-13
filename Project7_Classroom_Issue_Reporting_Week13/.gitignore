@@ -1,0 +1,10 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+.idea/
+.vscode/
+*.log
+backend/.dart_tool/
+frontend/.dart_tool/
+frontend/.metadata
